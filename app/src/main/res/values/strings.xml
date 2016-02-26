@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProblemSet3</string>
+    <string name="add">ADD</string>
+    <string name="deleteQuestion">"Are you sure you want to delete "</string>
+    <string name="questionmark">\?</string>
+    <string name="errorMessage">An error occured. Cannot write to file toDoList.txt.</string>
+    <string name="sure">Are you sure you want to delete the item \'</string>
+    <string name="fromToDo">\' from your TO DO list?</string>
+    <string name="yesSure">Yes, I\'m sure</string>
+    <string name="noNotSure">No, wait!</string>
+    <string name="test">hoi</string>
+</resources>
